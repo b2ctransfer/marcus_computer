@@ -1,6 +1,6 @@
 import React from 'react';
 import { AiOutlineShopping } from 'react-icons/ai';
-import Link from 'next/Link';
+import Link from 'next/link';
 import { Cart } from './'
 import { useStateContext } from '../context/StateContext';
 
